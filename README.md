@@ -1,6 +1,6 @@
 # Multi-Search_Engine_Card_Display
-"dynamic search cards" - Instant examine results from several well-known search engines.
-Author - "Srishti Choudhary"
+<b>"dynamic search cards"</b> - <i><b>Instant examine results from several well-known search engines.</b></i>
+<b>Author</b> - "Srishti Choudhary"
 <b>OVERVIEW</b> - <i>With the help of this small project, you may quickly and effectively search various search engines at once.</i>
 <ul>
           <li>Users may input a search query and instantly examine results from several well-known search engines on one screen</li>
