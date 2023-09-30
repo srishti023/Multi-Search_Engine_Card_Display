@@ -9,7 +9,8 @@ Author - "Srishti Choudhary"
           
 
 <b>FEATURES</b> -<ul>
-          <li><i>Search using several search engines<i/>, such as <b>Google, Bing, Yahoo, and others,<b> all from one location.<li>
+          <li><i>Search using several search engines<i/>, </li>
+          <li><b>Google, Bing, Yahoo, and others,<b> all from one location.<li>
           <li>User-Friendly: Users of all expertise levels may operate the intuitive interface with ease.</li>
           <li>Open Source: Because this project is open-source, community contributions and improvements are welcome.</li>
           </ul>
