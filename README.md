@@ -13,7 +13,7 @@
 
 <b>FEATURES</b> -<ul>
           <li><i>Search using several search engines</i>, </li>
-          <li><b>Google, Bing, Yahoo, and others,</b> all from one location.</li>
+          <li><b>Google, Youtube, Wikipedia, and Flipkart,</b> all from one location.</li>
           <li><b>User-Friendly:</b> Users of all expertise levels may operate the intuitive interface with ease.</li>
           <li><b>Open Source:</b> Because this project is open-source, community contributions and improvements are welcome.</li>
           </ul>
